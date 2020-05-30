@@ -25,16 +25,13 @@ float: left;
 }
 
 .column-right {
-	float:center;
+	float: center;
 	width: 78%;
-	height: 3000px;
+	height: auto;
 	padding: 12px;
 	margin: 8px;
 	background: #87cefa;
 }
-
-
-
     .clear {
       clear: both;
     }
