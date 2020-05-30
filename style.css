@@ -25,9 +25,9 @@ float: left;
 }
 
 .column-right {
-	display: float:center;
+	float:center;
 	width: 78%;
-	height: 2100px;
+	height: 3000px;
 	padding: 12px;
 	margin: 8px;
 	background: #87cefa;
